@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Sett image](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Sett_0.jpg)
